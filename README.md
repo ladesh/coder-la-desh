@@ -1,2 +1,2 @@
 # coder-la-desh
-this is a little discription
+This is a little discription.
